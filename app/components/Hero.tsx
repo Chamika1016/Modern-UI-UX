@@ -15,7 +15,7 @@ function Hero() {
         <h1 className="text-center text-[32px] leading-[40px] font-medium text-[#36485c] lg:text-[64px] lg:leading-[72px]  ">
           Start Monitoring Your Website Like a Pro..
         </h1>
-        <p className="text-center pt-6 text-[#36485c] lg:text-[18px] lg:leading-[2]">
+        <p className="text-center pt-6 text-[#36485c] lg:text-[18px] lg:leading-[7]">
           Get a bird's eye view with our customizable dashboard.Stay on top of
           things!. Revamp your work process with our game-changing feature.
           Boost Productivity and efficiency!.
